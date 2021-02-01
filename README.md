@@ -1,4 +1,5 @@
 # Regels ApeldoornRP
+ALGEMENE REGELS
 
 ◦ VDM (Vehicle Deathmatch) ➥ Het doden van een persoon doormiddel van een auto, boot en/of helikopter is niet toegestaan.
 
