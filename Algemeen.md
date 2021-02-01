@@ -53,4 +53,4 @@ ALGEMENE REGELS
 
 ◦ IRL geld ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.
 
-© 2020 ApeldoornRP
+© 2021 ApeldoornRP
