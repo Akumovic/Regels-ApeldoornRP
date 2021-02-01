@@ -1,15 +1,18 @@
 Criminele Circuit
+
 ◦ Scammen ➥ Het scammen van spelers is toegestaan maar met grenzen: Je mag iemand maximaal voor €30,000 scammen, je mag niet scammen voor voertuigen. Als iemand €50,000 betaald en vervolgens €20,000 terug geeft telt dit ook als het breken van de scam regel.
 
 ◦ Twitter ➥ Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het kopen van criminele informatie op het platform.
 
 ◦ Ontvoeren
+
 ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip.
 ➥ Het ontvoeren van burgers mag niet langer zijn dan 60 minuten!
 ➥ Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat! Is deze hierheen gevlucht en dit staat op je clip mag je dit wel doen!
 ➥ Voor het ontvoeren van burgers moet er minimaal 4 politie online zijn.
 
 ◦ Overvallen van burgers
+
 ➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)
 ➥ Het overvallen van burgers in openbare plekken is niet toegestaan! (BPG appartementen,ziekhuis,PolitieBureau,BPG).
 ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden!
@@ -20,12 +23,14 @@ Criminele Circuit
 ➥ Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!
 
 ◦ Het vermoorden van burgers
+
 ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.
 ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)
 ➥ Het vermoorden van burgers is niet toegestaan op de volgende plekken: Blokkenpark garage, Ziekenhuis, Auto Dealer, Politiebureau, ANWB HQ, Casino.
 ➥ Het vermoorden van hostages mag als het scenario escaleert anders is dit niet toegestaan.
 
 ◦ Overval op een bank,juwelier of winkel
+
 ➥ Max overvallers bij een grote bank is 10.
 ➥ Max overvallers bij een kleine bank of winkel is 5.
 ➥ Max overvallers bij een Juwelier is 8.
@@ -39,16 +44,19 @@ Criminele Circuit
 ➥ Aantal politie online voor een juwelier is 5.
 
 ◦ RolePlay tegen over de politie
+
 ➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In geval van nood (alleen waarschuwing schoten), Als je een politie onder schot hebt en er komt back-up en het wordt gevaarlijk voor jou en je collega mag je schieten,onnodig schieten is een ban.
 ➥ Als je op een politie schiet probeer altijd eerst op de benen te schieten! Onnodig politie doodschieten is een ban
 
 ◦ Het ontvoeren van Politie
+
 ➥ Het ontvoeren van politie mag pas als er 6 agenten in dienst zijn.
 ➥ Het losgeld vragen voor een politie agent is toegestaan het maximale bedrag van dit bedraagt 50.000 euro.
 ➥ Het meerdere malen op 1 dag een en dezelfde agent ontvoeren is niet toegestaan.
 ➥ Het maximale agenten dat mag worden ontvoert per dag is 3.
 
 ◦ Wanneer mag je gefouilleerd worden
+
 ➥ Als je een holster om hebt.
 ➥ Als je vlucht voor de politie.
 ➥ Preventief fouilleren mag wanner het dreigingsniveau 5 is.
@@ -57,6 +65,7 @@ Criminele Circuit
 ➥ Je mag NIET worden gefouilleerd als je een verkeersovertreding begaat.
 
 ◦ Vuurwapenwet
+
 ➥ Word er een mes op je gericht en sta je binnen Steekafstand werk je mee kan je wegrennen mag dat wel maar heb je t risico dat je wordt gestoken!
 ➥ Als je wordt gestoken mag je niet meer RENNEN, je mag wel LOPEN!
 ➥ Als er een Mes op je gericht staat en je zit in een Auto mag je doorrijden.
@@ -64,21 +73,25 @@ Criminele Circuit
 ➥ Word er geen wapen gericht op jou of je collega’s en heeft hij of zij hem niet meer in zijn hand mag je je wapen trekken, mits je niet meer in het zicht van de overvaller of politie bent, ben je in de minderheid is een wapen trekken een NO GO!
 
 ◦ Regels ten aanzien van auto gebruik
+
 ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.
 ➥ Het pakken van een auto uit de garage in een achtervolging mag niet! Staat er ergens een vriend die je ophaalt is wel toegestaan!
 ➥ Bij een Fatale klap of crash in een achtervolging blijf je in je auto zitten als er een Scenario uit voort kan komen!
 
 ◦ FAIL RP scenarios/situaties
+
 ➥ Het vluchten nadat iemand je probeert te pitten, overvallen, kidnappen naar een greenzone is ten strengste verboden!
 ➥ OOC praten in een scenario is ten strengste verboden
 ➥ Iemand doodschieten zonder RP hierbij zal het gebruikte wapen worden ingenomen.
 
 ◦ Communicatie regels
+
 ➥ Worden je Communicatie middelen afgepakt dien je jezelf te muten in discord hierbij zal ook je bodycam moeten worden afgesloten.
 ➥ Praat je in je oortje zorg ervoor dat je dit ook ingame doet als er mensen in je buurt zijn.
 ➥ Kijkt iemand mee op je telefoon dan mag je de politie niet bellen of sms’en.
 
 ◦ Verboden Criminaliteit
+
 ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.
 ➥ Het geven van een ''vergeet pil'' na dat je een burger overvalt. (dit mag wel in de volgende scenario's, als een gangmember de gang verlaat of eruit word gekicked).
 ◦ Regels over de GangWar
