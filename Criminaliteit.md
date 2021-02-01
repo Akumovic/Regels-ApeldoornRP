@@ -73,7 +73,7 @@ Criminele Circuit
 ➥ Word er geen wapen gericht op jou of je collega’s en heeft hij of zij hem niet meer in zijn hand mag je je wapen trekken, mits je niet meer in het zicht van de overvaller of politie bent, ben je in de minderheid is een wapen trekken een NO GO!
 
 ◦ Regels ten aanzien van auto gebruik
-
+ 
 ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.
 ➥ Het pakken van een auto uit de garage in een achtervolging mag niet! Staat er ergens een vriend die je ophaalt is wel toegestaan!
 ➥ Bij een Fatale klap of crash in een achtervolging blijf je in je auto zitten als er een Scenario uit voort kan komen!
