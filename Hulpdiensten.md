@@ -37,7 +37,7 @@ Regels Anwb
 ➥ Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.
 ➥ Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
 ➥
-
+ 
 Regels Taxi
 
 ➥ Taxi mag personen weigeren als er een dreiging vormt of is voor de chauffeur van de taxi.
