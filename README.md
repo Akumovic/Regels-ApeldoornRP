@@ -1,5 +1,5 @@
-# Regels-ApeldoornRP
-Neem gerust alle regels goed door!
+# Regels ApeldoornRP
+
 ◦ VDM (Vehicle Deathmatch) ➥ Het doden van een persoon doormiddel van een auto, boot en/of helikopter is niet toegestaan.
 
 ◦ RDM (Random Deathmatch) ➥ Het doden van een persoon zonder voorafgaande roleplay (zoals: een verkeersongeluk, iemand uitschelden en 1 x per ongeluk slaan zijn hier voorbeelden van) is niet toegestaan.
